@@ -1,0 +1,846 @@
+# 90-Day DSA Roadmap (Interview-Focused)
+
+## Daily Routine (Follow Every Day)
+
+### Step 1 — Learn (45–90 min)
+
+* Learn the day's topic.
+* Understand:
+
+  * What it is
+  * Why it is used
+  * Time Complexity
+  * Space Complexity
+  * Basic implementation
+
+### Step 2 — Implement (30 min)
+
+* Write the data structure/algorithm yourself.
+* Do not copy-paste.
+
+### Step 3 — Solve Problems (2–4 hrs)
+
+For each problem:
+
+1. Read problem.
+2. Think for 20–30 min.
+3. Write brute force.
+4. Optimize.
+5. If stuck, see hints.
+6. Only then see solution.
+7. Re-code solution without looking.
+
+### Step 4 — Revision (30 min)
+
+* Revise yesterday's problems.
+* Re-solve mistakes.
+
+### Step 5 — Notes (10 min)
+
+Write:
+
+* Pattern learned
+* Mistakes made
+* Complexity
+
+---
+
+# PHASE 0
+
+## Day 1
+
+* Variables
+* Data Types
+* Functions
+* Loops
+* Arrays
+* Input Output
+
+Problems: 10 Easy Array Problems
+
+---
+
+## Day 2
+
+* Time Complexity
+* Space Complexity
+* Big O Notation
+
+Problems: 10 Easy Problems
+
+Topics:
+
+* Max Element
+* Second Largest
+* Reverse Array
+* Check Sorted
+
+---
+
+# PHASE 1 — ARRAYS + HASHING
+
+## Day 3
+
+* Array Traversal
+* Prefix Sum
+
+Problems: 10
+
+---
+
+## Day 4
+
+* Frequency Count
+* HashMap
+
+Problems: 10
+
+---
+
+## Day 5
+
+* Two Sum
+* Majority Element
+
+Problems: 10
+
+---
+
+## Day 6
+
+* Sliding Window Introduction
+
+Problems: 8
+
+---
+
+## Day 7
+
+* Fixed Size Sliding Window
+
+Problems: 10
+
+---
+
+## Day 8
+
+* Variable Size Sliding Window
+
+Problems: 8
+
+---
+
+## Day 9
+
+* Kadane Algorithm
+* Maximum Subarray Sum
+
+Problems: 8
+
+---
+
+## Day 10
+
+* Revision
+
+Problems: 15 Mixed
+
+---
+
+# PHASE 2 — STRINGS
+
+## Day 11
+
+* String Basics
+* Character Arrays
+
+Problems: 10
+
+---
+
+## Day 12
+
+* Palindrome
+* Reverse String
+
+Problems: 10
+
+---
+
+## Day 13
+
+* Anagrams
+* Hashing with Strings
+
+Problems: 10
+
+---
+
+## Day 14
+
+* Revision
+
+Problems: 10 Mixed
+
+---
+
+# PHASE 3 — BINARY SEARCH
+
+## Day 15
+
+* Binary Search Basics
+
+Problems: 10
+
+---
+
+## Day 16
+
+* Lower Bound
+* Upper Bound
+
+Problems: 8
+
+---
+
+## Day 17
+
+* Binary Search on Answer
+
+Problems: 8
+
+---
+
+## Day 18
+
+* Revision
+
+Problems: 10
+
+---
+
+# PHASE 4 — LINKED LIST
+
+## Day 19
+
+* Singly Linked List
+
+Problems: 8
+
+---
+
+## Day 20
+
+* Insert
+* Delete
+
+Problems: 8
+
+---
+
+## Day 21
+
+* Reverse Linked List
+
+Problems: 8
+
+---
+
+## Day 22
+
+* Cycle Detection
+
+Problems: 8
+
+---
+
+## Day 23
+
+* Revision
+
+Problems: 10
+
+---
+
+# PHASE 5 — STACK + QUEUE
+
+## Day 24
+
+* Stack Basics
+
+Problems: 8
+
+---
+
+## Day 25
+
+* Monotonic Stack
+
+Problems: 8
+
+---
+
+## Day 26
+
+* Queue
+* Circular Queue
+
+Problems: 8
+
+---
+
+## Day 27
+
+* Next Greater Element
+
+Problems: 8
+
+---
+
+## Day 28
+
+* Revision
+
+Problems: 10
+
+---
+
+# PHASE 6 — RECURSION + BACKTRACKING
+
+## Day 29
+
+* Recursion Basics
+
+Problems: 10
+
+---
+
+## Day 30
+
+* Recursion Trees
+
+Problems: 8
+
+---
+
+## Day 31
+
+* Subsequences
+
+Problems: 8
+
+---
+
+## Day 32
+
+* Combination Sum
+
+Problems: 6
+
+---
+
+## Day 33
+
+* Permutations
+
+Problems: 6
+
+---
+
+## Day 34
+
+* N Queens
+
+Problems: 3
+
+---
+
+## Day 35
+
+* Revision
+
+Problems: Mixed
+
+---
+
+# PHASE 7 — TREES
+
+## Day 36
+
+* Tree Basics
+
+Problems: 5
+
+---
+
+## Day 37
+
+* DFS Traversal
+
+Problems: 5
+
+---
+
+## Day 38
+
+* BFS Traversal
+
+Problems: 5
+
+---
+
+## Day 39
+
+* Preorder Traversal
+
+Problems: 5
+
+---
+
+## Day 40
+
+* Inorder Traversal
+
+Problems: 5
+
+---
+
+## Day 41
+
+* Postorder Traversal
+
+Problems: 5
+
+---
+
+## Day 42
+
+* Height of Tree
+
+Problems: 5
+
+---
+
+## Day 43
+
+* Diameter of Tree
+
+Problems: 5
+
+---
+
+## Day 44
+
+* Lowest Common Ancestor (LCA)
+
+Problems: 5
+
+---
+
+## Day 45
+
+* Revision
+
+Problems: 20
+
+---
+
+# PHASE 8 — BST
+
+## Day 46
+
+* BST Basics
+
+Problems: 5
+
+---
+
+## Day 47
+
+* Insert
+* Search
+
+Problems: 5
+
+---
+
+## Day 48
+
+* Delete Node
+
+Problems: 5
+
+---
+
+## Day 49
+
+* Revision
+
+Problems: 10
+
+---
+
+# PHASE 9 — HEAPS
+
+## Day 50
+
+* Priority Queue
+
+Problems: 5
+
+---
+
+## Day 51
+
+* Min Heap
+
+Problems: 5
+
+---
+
+## Day 52
+
+* Max Heap
+
+Problems: 5
+
+---
+
+## Day 53
+
+* Top K Problems
+
+Problems: 8
+
+---
+
+## Day 54
+
+* Revision
+
+Problems: 10
+
+---
+
+# PHASE 10 — GREEDY
+
+## Day 55
+
+* Greedy Basics
+
+Problems: 5
+
+---
+
+## Day 56
+
+* Activity Selection
+
+Problems: 5
+
+---
+
+## Day 57
+
+* Interval Problems
+
+Problems: 5
+
+---
+
+## Day 58
+
+* Jump Game
+
+Problems: 5
+
+---
+
+## Day 59
+
+* Revision
+
+Problems: 10
+
+---
+
+# PHASE 11 — GRAPHS
+
+## Day 60
+
+* Graph Representation
+
+Problems: 5
+
+---
+
+## Day 61
+
+* BFS
+
+Problems: 5
+
+---
+
+## Day 62
+
+* DFS
+
+Problems: 5
+
+---
+
+## Day 63
+
+* Connected Components
+
+Problems: 5
+
+---
+
+## Day 64
+
+* Cycle Detection
+
+Problems: 5
+
+---
+
+## Day 65
+
+* Topological Sort
+
+Problems: 5
+
+---
+
+## Day 66
+
+* Shortest Path Basics
+
+Problems: 5
+
+---
+
+## Day 67
+
+* Dijkstra Algorithm
+
+Problems: 5
+
+---
+
+## Day 68
+
+* Bellman Ford
+
+Problems: 5
+
+---
+
+## Day 69
+
+* Minimum Spanning Tree
+
+Problems: 5
+
+---
+
+## Day 70
+
+* Kruskal Algorithm
+
+Problems: 5
+
+---
+
+## Day 71
+
+* Prim Algorithm
+
+Problems: 5
+
+---
+
+## Day 72
+
+* Disjoint Set Union (DSU)
+
+Problems: 5
+
+---
+
+## Day 73
+
+* Graph Revision
+
+Problems: 10
+
+---
+
+## Day 74
+
+* Mixed Graph Problems
+
+Problems: 10
+
+---
+
+# PHASE 12 — DYNAMIC PROGRAMMING
+
+## Day 75
+
+* DP Basics
+
+Problems: 5
+
+---
+
+## Day 76
+
+* Memoization
+
+Problems: 5
+
+---
+
+## Day 77
+
+* Tabulation
+
+Problems: 5
+
+---
+
+## Day 78
+
+* Fibonacci DP
+
+Problems: 5
+
+---
+
+## Day 79
+
+* Climbing Stairs
+
+Problems: 5
+
+---
+
+## Day 80
+
+* House Robber
+
+Problems: 5
+
+---
+
+## Day 81
+
+* 0/1 Knapsack
+
+Problems: 5
+
+---
+
+## Day 82
+
+* Subset Sum
+
+Problems: 5
+
+---
+
+## Day 83
+
+* Longest Common Subsequence (LCS)
+
+Problems: 5
+
+---
+
+## Day 84
+
+* Longest Increasing Subsequence (LIS)
+
+Problems: 5
+
+---
+
+## Day 85
+
+* Grid DP
+
+Problems: 5
+
+---
+
+## Day 86
+
+* Partition DP
+
+Problems: 5
+
+---
+
+## Day 87
+
+* Stock DP
+
+Problems: 5
+
+---
+
+## Day 88
+
+* Advanced DP
+
+Problems: 5
+
+---
+
+## Day 89
+
+* Mixed DP Problems
+
+Problems: 10
+
+---
+
+## Day 90
+
+* Full Revision
+
+Topics:
+
+* Arrays
+* Hashing
+* Strings
+* Binary Search
+* Linked List
+* Stack
+* Queue
+* Recursion
+* Backtracking
+* Trees
+* BST
+* Heaps
+* Greedy
+* Graphs
+* Dynamic Programming
+
+Problems: 20 Mixed Interview Questions
+
+---
+
+# Target By Day 90
+
+* Complete Core DSA
+* 250+ Problems Solved
+* Strong Complexity Knowledge
+* Interview-Level Pattern Recognition
+* Ready for OA Preparation
+* Ready for Mock Interviews
+* Ready for Placement Preparation
+* Ready to Start Advanced Competitive Programming and System Design Fundamentals
